@@ -16,27 +16,22 @@ Student at Brigham Young University - Idaho
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Bachelor of Science in Business Analytics
+
+- 2.9 Major GPA
 
 
-## Related Experience
+## Work Experience
 
-### Internships
+`November 2018 - Current`
+__Wendy's__, Crew Member
+Rexburg, Idaho
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Performed tasks in different areas such as, taking orders, cooking fries, and meat
+- Engaged with individuals and families while taking payment
 
 ### Data Science Lead
 
