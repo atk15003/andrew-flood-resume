@@ -33,40 +33,36 @@ Rexburg, Idaho
 - Performed tasks in different areas such as, taking orders, cooking fries, and meat
 - Engaged with individuals and families while taking payment
 
-### Data Science Lead
+`September 2017 - March 2018`
+__Kroger Retail Store__, Meat Clerk
+Westfield, Indiana
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Cleaned cutting materials and in area given
+- Stocked on supplies, when arrived daily, on store floor
+- Collaborated with individuals and families while delivering asked supplies and materials
+- Analyzed and did general labor as guided by managers
+- Trained and led fellow workers in stocking, providing materials, and cleaning work areas
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
 
 `September 2027 - April 2028`
-__Good2Go__, Consultant
+__R.M. Larkin Custom Homes__, General Laborer
+Danville, Indiana
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- Completed general labor work as directed by principal
 
-### Data Science Consulting Team
+## Volunteer Experience
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`August 2015 - Agust 2017`
+__Full-time Volunteer Representative__, The Church of Jesus Christ of Latter-day Saints
+Las Vegas, NV 
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Volunteered for 70+hrs./week in service and public relations
+- Interacted with individuals and families while providing humanitarian service in community
+- Managed and lead a geographic region comprised of 4-5 representatives
+- Trained and led representatives in contacting, teaching and serving individuals in need
 
 
-## Service and Work History
+## Accomplishments
 
 `2025-2027`
 __Math Tutor__, LDSBC
