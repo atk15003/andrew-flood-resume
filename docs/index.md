@@ -27,14 +27,14 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ## Work Experience
 
 `November 2018 - Current`
-__Wendy's__, Crew Member
+__Wendy's__, Crew Member, 
 Rexburg, Idaho
 
 - Performed tasks in different areas such as, taking orders, cooking fries, and meat
 - Engaged with individuals and families while taking payment
 
 `September 2017 - March 2018`
-__Kroger Retail Store__, Meat Clerk
+__Kroger Retail Store__, Meat Clerk, 
 Westfield, Indiana
 
 - Cleaned cutting materials and in area given
@@ -45,7 +45,7 @@ Westfield, Indiana
 
 
 `September 2027 - April 2028`
-__R.M. Larkin Custom Homes__, General Laborer
+__R.M. Larkin Custom Homes__, General Laborer, 
 Danville, Indiana
 
 - Completed general labor work as directed by principal
@@ -53,7 +53,7 @@ Danville, Indiana
 ## Volunteer Experience
 
 `August 2015 - Agust 2017`
-__Full-time Volunteer Representative__, The Church of Jesus Christ of Latter-day Saints
+__Full-time Volunteer Representative__, The Church of Jesus Christ of Latter-day Saints, 
 Las Vegas, NV 
 
 - Volunteered for 70+hrs./week in service and public relations
@@ -75,6 +75,6 @@ __Service Missionary__, South Africa
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2022 -->
 
 
